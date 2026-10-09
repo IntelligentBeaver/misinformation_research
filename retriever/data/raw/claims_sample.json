@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "claim_0001",
+    "claim": "Metformin is a first-line medication for management of type 2 diabetes to improve glycemic control.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0002",
+    "claim": "Antibiotics are effective against viral infections such as the common cold.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0003",
+    "claim": "Moderate physical activity can reduce the risk of cardiovascular disease.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0004",
+    "claim": "Vaccination against influenza can reduce the risk of flu-related hospitalization in older adults.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0005",
+    "claim": "Smoking increases the risk of lung cancer.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0006",
+    "claim": "Drinking water with lemon cures cancer.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0007",
+    "claim": "High blood pressure can increase the risk of stroke.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0008",
+    "claim": "Wearing a copper bracelet relieves arthritis pain for most people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0009",
+    "claim": "A diet high in sodium can raise blood pressure.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0010",
+    "claim": "Probiotics can prevent all cases of antibiotic-associated diarrhea.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0011",
+    "claim": "Regular handwashing reduces transmission of respiratory infections.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0012",
+    "claim": "Antibiotic use can contribute to antibiotic resistance.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0013",
+    "claim": "Sunscreen use lowers the risk of skin cancer.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0014",
+    "claim": "Tanning beds are a safe way to get vitamin D without cancer risk.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0015",
+    "claim": "COVID-19 vaccines can cause infertility in most people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0016",
+    "claim": "Folic acid supplementation before and during early pregnancy reduces neural tube defects.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0017",
+    "claim": "Omega-3 supplements clearly prevent heart attacks in all adults.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0018",
+    "claim": "Aspirin is recommended for all adults to prevent heart disease.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0019",
+    "claim": "Regular dental flossing reduces gum disease risk.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0020",
+    "claim": "Garlic supplements lower blood pressure as effectively as prescription medications.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0021",
+    "claim": "Type 1 diabetes can be cured with dietary changes alone.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0022",
+    "claim": "Insulin is required for survival in type 1 diabetes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0023",
+    "claim": "Breastfeeding provides immune protection to infants.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0024",
+    "claim": "All vaccines cause autism.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0025",
+    "claim": "The HPV vaccine prevents most cervical cancers.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0026",
+    "claim": "Antibiotics speed recovery from influenza.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0027",
+    "claim": "Untreated sleep apnea increases cardiovascular risk.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0028",
+    "claim": "Melatonin is safe and effective for all children with insomnia.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0029",
+    "claim": "Regular colon cancer screening reduces mortality.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0030",
+    "claim": "Herbal detox teas remove toxins and improve liver function in healthy people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0031",
+    "claim": "Statins reduce risk of heart attack in high-risk patients.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0032",
+    "claim": "High LDL cholesterol is a risk factor for atherosclerosis.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0033",
+    "claim": "Wearing masks in healthcare settings reduces spread of respiratory viruses.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0034",
+    "claim": "Coffee consumption causes dehydration and should be avoided.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0035",
+    "claim": "Chronic stress can contribute to hypertension.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0036",
+    "claim": "Vitamin C prevents the common cold in most people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0037",
+    "claim": "Vitamin D deficiency can cause bone disorders like osteomalacia.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0038",
+    "claim": "Taking antibiotics for a sore throat without testing always helps.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0039",
+    "claim": "Exposure to secondhand smoke increases risk of heart disease.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0040",
+    "claim": "E-cigarettes are completely harmless.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0041",
+    "claim": "Calcium supplementation prevents fractures in all older adults.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0042",
+    "claim": "Bariatric surgery can lead to long-term weight loss in severe obesity.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0043",
+    "claim": "Eating carrots improves vision so much that glasses are unnecessary.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0044",
+    "claim": "Regular resistance training improves bone density.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0045",
+    "claim": "People with celiac disease must avoid gluten to prevent symptoms.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0046",
+    "claim": "All gluten-free diets are healthier for everyone.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0047",
+    "claim": "Excessive alcohol consumption can cause liver cirrhosis.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0048",
+    "claim": "HPV infection can lead to oropharyngeal cancer.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0049",
+    "claim": "Antibiotics are needed for most cases of acute bronchitis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0050",
+    "claim": "Shingles vaccine reduces risk of herpes zoster in older adults.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0051",
+    "claim": "Low-carbohydrate diets always outperform all other diets for long-term weight loss.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0052",
+    "claim": "Metabolic syndrome increases risk of type 2 diabetes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0053",
+    "claim": "Regular aerobic exercise improves insulin sensitivity.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0054",
+    "claim": "Multivitamins prevent cancer in the general population.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0055",
+    "claim": "Air pollution exposure can worsen asthma symptoms.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0056",
+    "claim": "There is a cure for Alzheimer disease that reverses memory loss.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0057",
+    "claim": "Sleep deprivation impairs immune function.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0058",
+    "claim": "Drinking eight glasses of water daily is required for everyone.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0059",
+    "claim": "Hypertension is often asymptomatic.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0060",
+    "claim": "High fiber intake lowers risk of colorectal cancer.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0061",
+    "claim": "Honey is safe for infants under 6 months.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0062",
+    "claim": "Vaccines contain microchips for tracking.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0063",
+    "claim": "Diabetic ketoacidosis is a medical emergency.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0064",
+    "claim": "Antibiotics can cause allergic reactions.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0065",
+    "claim": "Regular eye exams can detect glaucoma early.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0066",
+    "claim": "All breast lumps are cancer.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0067",
+    "claim": "HPV testing plus Pap screening improves cervical cancer detection.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0068",
+    "claim": "Migraine is just a severe headache with no neurological basis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0069",
+    "claim": "Early mobilization after surgery reduces risk of blood clots.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0070",
+    "claim": "Long-term opioid use carries risk of dependence.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0071",
+    "claim": "Antibiotics reduce fever in viral gastroenteritis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0072",
+    "claim": "Prebiotics can increase beneficial gut bacteria.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0073",
+    "claim": "Eating late at night always causes obesity.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0074",
+    "claim": "Depression can present with physical symptoms like fatigue.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0075",
+    "claim": "Antibiotic prophylaxis is needed before all dental procedures.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0076",
+    "claim": "Sun exposure is the only way to get vitamin D.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0077",
+    "claim": "Iron deficiency can cause anemia and fatigue.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0078",
+    "claim": "Keto diet is safe for everyone including pregnant people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0079",
+    "claim": "Inhaled corticosteroids reduce asthma exacerbations.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0080",
+    "claim": "Hypertension during pregnancy can threaten maternal and fetal health.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0081",
+    "claim": "Antibiotics cure the common cold if taken early.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0082",
+    "claim": "Breast cancer risk increases with age.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0083",
+    "claim": "All strokes present with severe headache.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0084",
+    "claim": "Early thrombolysis can improve outcomes in ischemic stroke.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0085",
+    "claim": "Prolonged sitting is associated with higher cardiovascular risk.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0086",
+    "claim": "All chest pain is caused by heart attacks.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0087",
+    "claim": "Regular stretching alone prevents all sports injuries.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0088",
+    "claim": "HPV infection always causes cancer.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0089",
+    "claim": "Parkinson disease is caused by high sugar intake.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0090",
+    "claim": "Seasonal allergies can trigger asthma symptoms.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0091",
+    "claim": "Antidepressants work instantly after the first dose.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0092",
+    "claim": "High triglycerides increase pancreatitis risk.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0093",
+    "claim": "Thyroid disorders can cause changes in weight and energy.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0094",
+    "claim": "Antibiotics are effective for most sinus infections.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0095",
+    "claim": "ACE inhibitors can cause cough.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0096",
+    "claim": "Vaccination in pregnancy can protect newborns from influenza.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0097",
+    "claim": "Fasting completely resets metabolism permanently.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0098",
+    "claim": "Early childhood vaccinations overload the immune system.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0099",
+    "claim": "Obesity is associated with increased risk of type 2 diabetes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0100",
+    "claim": "Grapefruit juice can interact with certain medications.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0101",
+    "claim": "Antibiotic use increases risk of C. difficile infection.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0102",
+    "claim": "All headaches need brain imaging.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0103",
+    "claim": "Persistent high blood sugar damages kidneys over time.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0104",
+    "claim": "Omega-3 supplements clearly improve cognition in all older adults.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0105",
+    "claim": "Antibiotics are required for strep throat.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0106",
+    "claim": "High-sugar drinks increase risk of dental caries.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0107",
+    "claim": "Meditation can reduce perceived stress.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0108",
+    "claim": "Herbal supplements are always safe because they are natural.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0109",
+    "claim": "Vaccines can cause mild fever and soreness.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0110",
+    "claim": "Untreated high cholesterol has no health consequences.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0111",
+    "claim": "Regular sleep of 7 to 9 hours is linked to better health in adults.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0112",
+    "claim": "Vitamin B12 deficiency can cause neuropathy.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0113",
+    "claim": "Antibiotics prevent all complications of viral sore throat.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0114",
+    "claim": "Smoking during pregnancy increases risk of low birth weight.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0115",
+    "claim": "All forms of diabetes are caused by sugar intake alone.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0116",
+    "claim": "COVID-19 can cause long-term symptoms in some people.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0117",
+    "claim": "Blood pressure cuffs at home can help monitor hypertension.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0118",
+    "claim": "There is not enough evidence that air ionizers prevent influenza.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0119",
+    "claim": "Taking ibuprofen with alcohol is always safe.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0120",
+    "claim": "Regular cervical cancer screening can detect precancerous changes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0121",
+    "claim": "Daily aspirin prevents dementia in everyone.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0122",
+    "claim": "Excessive screen time always causes permanent vision loss.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0123",
+    "claim": "Antibiotics treat bacterial pneumonia.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0124",
+    "claim": "Wearing earplugs prevents all hearing loss.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0125",
+    "claim": "Heavy alcohol use increases risk of atrial fibrillation.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0126",
+    "claim": "Vaccination against hepatitis B prevents chronic infection.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0127",
+    "claim": "Prolonged untreated GERD can increase risk of esophageal complications.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0128",
+    "claim": "All food allergies cause immediate anaphylaxis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0129",
+    "claim": "Routine exercise improves mood in many people.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0130",
+    "claim": "Dehydration can cause dizziness and fatigue.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0131",
+    "claim": "Antibiotics are useful for acute viral bronchitis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0132",
+    "claim": "There is not enough evidence that turmeric supplements cure arthritis.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0133",
+    "claim": "High blood pressure can damage the kidneys.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0134",
+    "claim": "High-altitude sickness can occur above 2500 meters.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0135",
+    "claim": "Eating eggs always raises cholesterol to dangerous levels.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0136",
+    "claim": "HPV vaccine is recommended for adolescents.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0137",
+    "claim": "Wearing a helmet reduces risk of head injury in cycling.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0138",
+    "claim": "All probiotics are the same and have identical benefits.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0139",
+    "claim": "Untreated hypothyroidism can cause high cholesterol.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0140",
+    "claim": "Antibiotics are effective for allergic rhinitis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0141",
+    "claim": "Regular sunscreen use can prevent sunburn.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0142",
+    "claim": "All cases of low back pain require surgery.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0143",
+    "claim": "Blood donation can lower iron stores.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0144",
+    "claim": "There is not enough evidence that collagen supplements improve joint pain for everyone.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0145",
+    "claim": "Tuberculosis can be transmitted through the air.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0146",
+    "claim": "Antibiotics should be stopped once you feel better.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0147",
+    "claim": "Sleep hygiene techniques can improve insomnia.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0148",
+    "claim": "Fasting glucose is used to diagnose diabetes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0149",
+    "claim": "Antibiotics are effective against fungal infections.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0150",
+    "claim": "Early rehabilitation after stroke can improve functional outcomes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0151",
+    "claim": "Seasonal influenza can lead to pneumonia in some patients.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0152",
+    "claim": "All fevers require antibiotics.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0153",
+    "claim": "Blood donation reduces risk of heart disease for everyone.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0154",
+    "claim": "Using condoms reduces risk of sexually transmitted infections.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0155",
+    "claim": "HIV can be transmitted through casual hugging.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0156",
+    "claim": "Regular vaccination prevents measles outbreaks.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0157",
+    "claim": "Antibiotics shorten the duration of viral sinusitis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0158",
+    "claim": "CPAP therapy improves symptoms of obstructive sleep apnea.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0159",
+    "claim": "Prolonged uncontrolled diabetes increases risk of neuropathy.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0160",
+    "claim": "Eating spicy food causes stomach ulcers in most people.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0161",
+    "claim": "Helicobacter pylori infection is a cause of peptic ulcers.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0162",
+    "claim": "All cases of sore throat need tonsil removal.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0163",
+    "claim": "Maintaining a healthy weight can reduce risk of osteoarthritis in weight-bearing joints.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0164",
+    "claim": "Creatine supplementation causes kidney failure in healthy adults.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0165",
+    "claim": "Antibiotics are effective for viral conjunctivitis.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0166",
+    "claim": "Early treatment of sepsis improves survival.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0167",
+    "claim": "All cancers are caused by stress.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0168",
+    "claim": "HPV vaccination reduces risk of genital warts.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0169",
+    "claim": "Regular physical activity can improve symptoms of depression.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0170",
+    "claim": "Children outgrow all food allergies by age five.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0171",
+    "claim": "Vitamin A supplementation can prevent blindness in vitamin A deficient children.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0172",
+    "claim": "Eating raw garlic prevents COVID-19 infection.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0173",
+    "claim": "Hepatitis C can be cured with direct-acting antivirals in many patients.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0174",
+    "claim": "Antibiotics are needed for uncomplicated viral diarrhea.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0175",
+    "claim": "All antibiotics are safe during pregnancy.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0176",
+    "claim": "Screening mammography can reduce breast cancer mortality in some age groups.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0177",
+    "claim": "Prostate cancer screening is recommended for all men regardless of age or risk.",
+    "label": "uncertain",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0178",
+    "claim": "Postmenopausal hormone therapy prevents heart disease in all women.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0179",
+    "claim": "High-salt diets can worsen heart failure symptoms.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0180",
+    "claim": "Nonsteroidal anti-inflammatory drugs can increase risk of stomach ulcers.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0181",
+    "claim": "Probiotics definitively cure irritable bowel syndrome for everyone.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0182",
+    "claim": "Hearing loss can be caused by prolonged exposure to loud noise.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0183",
+    "claim": "All vaccines contain live viruses.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0184",
+    "claim": "Early skin-to-skin contact improves breastfeeding success.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0185",
+    "claim": "Antibiotics are helpful for common colds caused by rhinovirus.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0186",
+    "claim": "Short-term steroid inhalers can be used for all asthma patients without risk.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0187",
+    "claim": "Salt substitutes high in potassium can be risky for people with kidney disease.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0188",
+    "claim": "Drinking alcohol during pregnancy is safe in small amounts.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0189",
+    "claim": "Regular walking can improve blood pressure in adults with hypertension.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0190",
+    "claim": "Low-dose CT screening can reduce lung cancer mortality in high-risk smokers.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0191",
+    "claim": "Vitamin E supplements prevent heart disease in most adults.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0192",
+    "claim": "Appendicitis always presents with right lower quadrant pain.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0193",
+    "claim": "Untreated urinary tract infections can progress to kidney infection.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0194",
+    "claim": "Acetaminophen is always safe regardless of dose.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0195",
+    "claim": "Weight loss can improve symptoms of obstructive sleep apnea.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0196",
+    "claim": "Celiac disease is caused by bacterial infection.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0197",
+    "claim": "Long-term untreated hypertension can lead to heart failure.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0198",
+    "claim": "There is not enough evidence that homeopathy cures influenza.",
+    "label": "not enough evidence",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0199",
+    "claim": "Regular use of seat belts reduces risk of injury in car crashes.",
+    "label": "true",
+    "positive_evidence": [],
+    "negative_evidence": []
+  },
+  {
+    "id": "claim_0200",
+    "claim": "All herbal supplements are regulated and standardized for potency.",
+    "label": "false",
+    "positive_evidence": [],
+    "negative_evidence": []
+  }
+]
