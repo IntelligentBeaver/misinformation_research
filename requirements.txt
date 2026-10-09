@@ -1,0 +1,32 @@
+# Research pipeline dependencies (Python 3.13)
+# Install with: pip install -r requirements.txt
+#
+# Note: torch, sentence-transformers and faiss-cpu are large packages.
+# On GPU machines install the CUDA-enabled torch build first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+
+# Web scraping (adapters/ and benchmark/)
+requests==2.34.2
+beautifulsoup4==4.14.3
+lxml==6.1.1
+selenium>=4.20.0
+webdriver-manager>=4.0.1
+playwright==1.63.0
+
+# Vector storage and embeddings (build_qdrant_incremental.py, retriever/)
+qdrant-client>=1.10.0
+sentence-transformers>=3.0.0
+numpy==2.4.6
+tqdm>=4.66.0
+
+# Legacy FAISS indexing (adapters/*/indexing/)
+faiss-cpu>=1.8.0
+
+# Retriever fine-tuning (retriever/train_triplet_retriever.py)
+torch>=2.3.0
+
+# Analysis and utilities
+pandas==3.0.3
+python-dateutil==2.9.0.post0
+rich>=13.7.0
+python-dotenv==1.2.2
