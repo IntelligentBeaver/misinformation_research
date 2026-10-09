@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- Virtual environments ---
+.venv/
+venv/
+
+# --- IDE ---
+.idea/
+.vscode/
+
+# --- Local secrets (never commit real credentials) ---
+.env
+
+# --- Scraped raw data (regenerate with adapters/ and run_all_adapters.py) ---
+storage/who/*
+storage/harvardhealth/*
+storage/webmd/*
+!storage/who/.gitkeep
+!storage/harvardhealth/.gitkeep
+!storage/webmd/.gitkeep
+
+# --- Fine-tuned model weights (regenerate with retriever/train_triplet_retriever.py) ---
+storage/models/*
+!storage/models/.gitkeep
+
+# --- Intermediate dataset artifacts ---
+storage/datasets/*
+!storage/datasets/.gitkeep
+
+# --- Large binary artifacts ---
+*.safetensors
+*.faiss
+*.npy
