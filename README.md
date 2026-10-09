@@ -9,7 +9,7 @@ A complete end-to-end pipeline for **medical evidence retrieval** and **misinfor
 | **1. Scraping** | `scraping/` | List scrape (9 sources) → Detail scrape (7 sources) | `storage/*/list.json`, `storage/*/articles/` |
 | **2. Labeling** | `retriever/notebooks/` | LLM label claims on Colab T4 (Gemma-2-9b) | `retriever/data/labeled/claims_llm_labeled.json` |
 | **3. Fine-Tuning** | `retriever/` | Triplet loss fine-tune BAAI/bge-m3 | `storage/models/fine_tuned_medical_retriever/` |
-| **4. Retrieval** | `retriever/` | Qdrant index + hybrid search (dense + cross-encoder) | `medical_facts_global` collection |
+| **4. Qdrant Ingestion** | `qdrant_ingestion/` | Incremental upsert to Qdrant Cloud (Colab, dual-vector) | `medical_facts_global_1` collection |
 
 ## Quick Start
 
@@ -94,10 +94,11 @@ misinformation_research/
 ├── benchmark/                    # Evaluation & benchmarking
 │   ├── benchmark_dataset/        # Gold-standard test queries
 │   └── harvard_search_articles.py
-├── notebooks/                    # Colab notebooks for index building
+├── qdrant_ingestion/                 # Colab notebooks for Qdrant upsert
 │   ├── build_harvard_qdrant_incremental_colab_2.ipynb
 │   ├── build_webmd_qdrant_incremental_colab_2.ipynb
-│   └── build_who_qdrant_incremental_colab_2.ipynb
+│   ├── build_who_qdrant_incremental_colab_2.ipynb
+│   └── README.md                     # Ingestion docs
 ├── storage/                      # Data artifacts (gitignored)
 │   ├── harvardhealth/            # Scraped Harvard articles
 │   ├── webmd/                    # Scraped WebMD articles
@@ -157,7 +158,7 @@ Override via:
 |----------|---------|---------|
 | `retriever/notebooks/colab_gemma_claim_labeler.ipynb` | LLM evidence labeling | Colab T4 GPU |
 | `retriever/notebooks/qdrant_query.ipynb` | Query, evaluate, analyze | Local/Colab |
-| `notebooks/build_*_qdrant_incremental_colab_2.ipynb` | Incremental index builds | Colab |
+| `qdrant_ingestion/build_*_qdrant_incremental_colab_2.ipynb` | Incremental Qdrant upsert | Colab T4 GPU |
 
 ## Requirements
 
